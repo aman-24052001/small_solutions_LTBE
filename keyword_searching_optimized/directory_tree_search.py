@@ -6,7 +6,7 @@ This script builds an optimized tree-based structure of directories and files,
 then searches for files containing a specified keyword using parallel processing
 and memory-efficient techniques.
 
-Author: Assistant
+Author: Aman Kumar
 Date: 2025
 """
 
