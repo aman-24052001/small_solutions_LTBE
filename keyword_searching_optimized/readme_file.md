@@ -255,8 +255,7 @@ We welcome contributions! Here's how to get started:
 
 ### Development Setup
 ```bash
-git clone https://github.com/yourusername/directory-tree-search.git
-cd directory-tree-search
+git clone https://github.com/aman-24052001/small_solutions_LTBE/tree/main/keyword_searching_optimized.git
 pip install -r requirements.txt
 ```
 
@@ -289,12 +288,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/directory-tree-search/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/directory-tree-search/discussions)
-- **Email**: your.email@example.com
+- **Email**: amankumar24052001@gmail.com
 
 ---
 
 **⭐ If this tool helped you, please star the repository!**
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Aman-Kumar](https://github.com/aman-24052001)
